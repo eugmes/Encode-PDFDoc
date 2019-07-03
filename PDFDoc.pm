@@ -1,6 +1,5 @@
 package Encode::PDFDoc;
 # ABSTRACT: PDFDocEncoding support
-our $VERSION = "0.01";
 
 use Encode;
 use XSLoader;
