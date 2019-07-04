@@ -1,4 +1,5 @@
 <code_set_name> "PDFDoc"
+<code_set_alias> "pdf"
 <mb_cur_min> 1
 <mb_cur_max> 1
 <subchar> \x3F
